@@ -5,14 +5,14 @@
 <p align="center">
     <Strong>💻 My Portfolio Blog 💻</Strong><br><br>
     
-<br><br>
+<br>
 </p>
 
 <p align="center">
 <Strong>✉️ Email ✉️</Strong><br>
     whalstjr199927@gmail.com<br>
 </p>
-
+<br>
 
 <br>
 
