@@ -1,5 +1,5 @@
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=MinSeok's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=70)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=MinSeok's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=55&descAlign=60)
 
 
 <br>
