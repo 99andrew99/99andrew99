@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/99andrew99/TodayAstronomyPicture"> <Strong>오늘의 천문학 사진과 그에 대한 설명을 보여주는 사이트</Strong> </a>
+   <a href="https://github.com/99andrew99/TodayAstronomyPicture"> <Strong>오늘의 천문학 사이트</Strong> </a>
 </p>
 
 <p align="center">
