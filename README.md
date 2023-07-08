@@ -48,8 +48,7 @@
 </p>
 
 <p align="center">
-    <Strong>CNU Library Wi-Fi Analyzer (WIA)</Strong>  🏆- 충남대학교 공공데이터 경진대회 정보화본부장상 <br />
-    <a href="https://github.com/99andrew99/WiA">Link</a>
+    <a href="https://github.com/99andrew99/WiA"><Strong>CNU Library Wi-Fi Analyzer (WIA)</Strong>  🏆- 충남대학교 공공데이터 경진대회 정보화본부장상 <br /></a>
     
     
 </p>
