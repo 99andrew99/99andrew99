@@ -37,7 +37,12 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/STYLEDCOMPONENTS-DB7093?style=for-the-badge&logo=Styled-Components&logoColor=white">
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
+
 
 
 <br>
