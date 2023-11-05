@@ -66,13 +66,14 @@
 
 
 <hr>
-
+<div align="center" style="width:100%;">
+    <img src="https://github.com/99andrew99/wisee/assets/66951806/84ab9985-7412-4c76-9703-b30f385c7d4e" style="width:30%;"/>
+</div>
 <p align="center">
    <a href="https://github.com/99andrew99/wisee"> <Strong>wisee(AR을 활용한 네트워크 시각화 앱)</Strong> </a>
 </p>
 
 <hr>
-
 <div align="center" style="width:100%;">
     <img src="https://github.com/99andrew99/99andrew99/assets/66951806/32265da1-5c81-41c3-828c-4449ccd2ee72" style="width:30%;"/>
 </div>
