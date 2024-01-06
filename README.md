@@ -29,6 +29,7 @@
 
 <p align="center">
     <Strong>⚒️ My Skills ⚒️</Strong><br>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whalstjr1999)](https://solved.ac/whalstjr1999)<br/>
 </p>
 
 <p align="center" display="inline-block">
