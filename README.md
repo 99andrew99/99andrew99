@@ -29,7 +29,6 @@
 
 <p align="center">
     <Strong>⚒️ My Skills ⚒️</Strong><br>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whalstjr1999)](https://solved.ac/whalstjr1999)<br/>
 </p>
 
 <p align="center" display="inline-block">
@@ -44,7 +43,7 @@
     <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whalstjr1999)](https://solved.ac/whalstjr1999/)<br/>
 
 <br>
 
