@@ -43,7 +43,12 @@
     <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whalstjr1999)](https://solved.ac/whalstjr1999/)<br/>
+
+<div align="center">
+  <a href="https://solved.ac/whalstjr1999/">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=whalstjr1999" alt="Solved.ac Profile">
+  </a>
+</div>
 
 <br>
 
