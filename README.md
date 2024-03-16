@@ -44,6 +44,17 @@
 </p>
 
 
+<p align="center">
+    <Strong>🏢 My Career 🏢</Strong><br><br>
+    🏢 한국조폐공사(KOMSCO)인턴 - 2024.3 ~
+    
+</p>
+<br><br>
+
+
+ 
+
+
 <div align="center">
   <a href="https://solved.ac/whalstjr1999/">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=whalstjr1999" alt="Solved.ac Profile">
