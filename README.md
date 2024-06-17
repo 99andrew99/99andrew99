@@ -6,6 +6,7 @@
 
 <p align="center">
     <Strong>💻 My Portfolio Blog 💻</Strong><br><br>
+    <a href="https://jumbled-corleggy-e88.notion.site/7e7778d41dd8476fb64819e0f4b04178">!!포트폴리오 사이트로 이동!!</a>
     
 <br>
 </p>
