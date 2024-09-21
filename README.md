@@ -47,7 +47,7 @@
 
 <p align="center">
     <Strong>🏢 My Career 🏢</Strong><br><br>
-    🏢 한국조폐공사(KOMSCO)인턴 - 2024.3 ~
+    🏢 한국조폐공사(KOMSCO)인턴 - 2024.3 ~ 2024.6
     
 </p>
 <br><br>
