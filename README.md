@@ -5,7 +5,7 @@
     
   ![무제 001](https://github.com/user-attachments/assets/af5f3e5e-679c-4e6d-8750-7207b6920061)
   
-  # 조민석 (Cho Min seok)
+  # 조민석 (Cho Min Seok)
   
   ### 항상 좋은 사용자 만족도를 위해 노력하는 개발자 입니다
 
