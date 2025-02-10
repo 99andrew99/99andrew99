@@ -7,7 +7,7 @@
   
   # 조민석 (Cho Min seok)
   
-  ### 항상 좋은 사용자 만족도를 위해 노력하는 개발자
+  ### 항상 좋은 사용자 만족도를 위해 노력하는 개발자 입니다
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://jumbled-corleggy-e88.notion.site/7e7778d41dd8476fb64819e0f4b04178)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:whalstjr199927@gmail.com)
@@ -20,6 +20,8 @@
 - TOEIC 925점, TOEIC Speaking IH 취득
 - SQLD 자격증 보유
 - React와 React Native를 활용한 웹/앱 개발 경험
+- Nextjs와 TypeScript를 활용한 웹 개발 경험
+- Storybook을 사용한 컴포넌트 단위 테스트 및 문서화 가능
 - 데이터베이스 설계 및 CRUD 구현 능력
 - 웹개발 동아리 부회장 경험을 통한 원활한 커뮤니케이션 능력
 - 한국조폐공사에서 PKI 시스템의 데이터베이스 및 관리자페이지를 mariaDB와 JSP를 사용하여 설계 및 구축한 실무 경험
