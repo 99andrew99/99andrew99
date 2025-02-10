@@ -1,35 +1,40 @@
 
-![무제 001](https://github.com/user-attachments/assets/af5f3e5e-679c-4e6d-8750-7207b6920061)
 
 
+<div align="center">
+    
+  ![무제 001](https://github.com/user-attachments/assets/af5f3e5e-679c-4e6d-8750-7207b6920061)
+  
+  # 조민석 (Cho Min seok)
+  
+  ### 항상 좋은 사용자 만족도를 위해 노력하는 개발자
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://jumbled-corleggy-e88.notion.site/7e7778d41dd8476fb64819e0f4b04178)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:whalstjr199927@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/99andrew99)
+</div>
 
-<br>
+## 🎓 About Me
 
-<p align="center">
-    <Strong>💻 My Portfolio Blog 💻</Strong><br>
-    <a href="https://jumbled-corleggy-e88.notion.site/7e7778d41dd8476fb64819e0f4b04178">!!포트폴리오 사이트로 이동!!</a>
-</p>
-<br><br>
+- 정보처리기사 자격증 보유
+- TOEIC 925점, TOEIC Speaking IH 취득
+- SQLD 자격증 보유
+- React와 React Native를 활용한 웹/앱 개발 경험
+- 데이터베이스 설계 및 CRUD 구현 능력
+- 웹개발 동아리 부회장 경험을 통한 원활한 커뮤니케이션 능력
+- 한국조폐공사에서 PKI 시스템의 데이터베이스 및 관리자페이지를 mariaDB와 JSP를 사용하여 설계 및 구축한 실무 경험
+- 디지털 하나로에서 팀 프로젝트를 통해 협업 능력 향상
 
-<p align="center">
-<Strong>✉️ Email ✉️</Strong><br>
-    whalstjr199927@gmail.com
-</p>
-<br><br>
+## 📞 Contact
+- **📱 Phone**: 010-4193-0654
+- **📧 Email**: whalstjr1999@naver.com
+- **🔗 GitHub**: [99andrew99](https://github.com/99andrew99)
 
-<p align="center">
-😊 안녕하세요! 😊<br>
-저는 개발자를 준비하고있는 조민석입니다!<br>
-항상 배우는 자세로 열심히 공부하고 있습니다!<br>
-😌 감사합니다! 😌
-</p>
+## 💼 Career
+- **한국조폐공사(KOMSCO)** - 인턴 (2024.03 ~ 2024.06)
+- **하나은행 Digital Hana 路** (2024.08 ~ 2025.02)
 
-<br>
-
-<p align="center">
-    <Strong>⚒️ My Skills ⚒️</Strong><br>
-</p>
+## 🛠 Technical Skills
 
 <p align="center" display="inline-block">
     <br>
@@ -57,6 +62,8 @@
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=Java&logoColor=white">
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center" display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=99andrew99&show_icons=true&theme=radical" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99andrew99&layout=compact&theme=radical" height="180"/>
@@ -68,23 +75,39 @@
   </a>
 </div>
 
-<br><br>
+# 🚀 Projects
+
+<div align="center" style="width:100%;">
+    <img src="https://private-user-images.githubusercontent.com/111281798/409609029-80736520-e88f-4394-8ff6-c4ae1fcdb138.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxNjAzNTMsIm5iZiI6MTczOTE2MDA1MywicGF0aCI6Ii8xMTEyODE3OTgvNDA5NjA5MDI5LTgwNzM2NTIwLWU4OGYtNDM5NC04ZmY2LWM0YWUxZmNkYjEzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxMFQwNDAwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNDMwMDhmYjY4ZGJhMjNjMTE0ODFhMmFmMTE1NTM4OTYwOGFlMTVhMTk3NmM5YjVjMjY2YzNjODlkNTk0MDczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QXHFDMl-QeWy7IJb3jAwusg5SNuPgzQEzvsYoxVoJog" style="width:50%;"/>
+</div>
 
 <p align="center">
-    <Strong>🏢 My Career 🏢</Strong><br><br>
-    🏢 한국조폐공사(KOMSCO)인턴 - 2024.3 ~ 2024.6<br>
-    💻 하나은행 디지털 하나로 - 2024.8 ~ 2025.2
+    <a href="https://github.com/digital-hanaro-RSP/GGUMTLE_FE"><Strong>꿈틀(디지털 하나로)<br /></a>
 </p>
 
 
-<br><br>
+<hr>
 
-
+<div align="center" style="width:100%;">
+    <img src="https://private-user-images.githubusercontent.com/92677088/399388653-c699df12-52f4-47e1-b0f1-003e5eb5d461.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxNTk5MTMsIm5iZiI6MTczOTE1OTYxMywicGF0aCI6Ii85MjY3NzA4OC8zOTkzODg2NTMtYzY5OWRmMTItNTJmNC00N2UxLWIwZjEtMDAzZTVlYjVkNDYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDAzNTMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyZjY2NmExZDhjYzc2MDU3ZDAwNzY4OTZmZTZlNzkzY2U4Y2ZmMTFiMGRlNTFmMDZkNjIzNWQyOWMzY2M4OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.v62qym0An3RbO1vsz4L6tbcMwbB0v29nx3pwUc-spkA" style="width:50%;"/>
+</div>
 
 <p align="center">
-    <Strong>💻 My Projects 💻</Strong><br>
+    <a href="https://github.com/KeywordHanaro/KeywordHanaro_FE"><Strong>키워드 하나로(디지털 하나로)<br /></a>
 </p>
 
+<hr>
+<br />
+<div align="center" style="width:100%;">
+    <img src="https://github.com/user-attachments/assets/a1dbef3b-ffdc-430e-9bed-d821b39f4d38" alt="한국조폐공사" style="width:50%;">
+</div>
+<br />
+<p align="center">
+    <Strong>한국조폐공사 PKI 시스템 데이터베이스 및 관리자페이지 구축<br />
+</p>
+<br />
+
+<hr>
 
 <div align="center" style="width:100%;">
     <img src="https://github.com/99andrew99/WiA/assets/46346267/f78a4a69-e227-4cdc-8dd7-9867d0877724" style="width:30%;"/>
@@ -95,8 +118,8 @@
     <a href="https://github.com/99andrew99/WiA"><Strong>CNU Library Wi-Fi Analyzer (WIA)</Strong>  🏆- 충남대학교 공공데이터 경진대회 정보화본부장상 <br /></a>
 </p>
 
-
 <hr>
+
 <div align="center" style="width:100%;">
     <img src="https://github.com/99andrew99/wisee/assets/66951806/84ab9985-7412-4c76-9703-b30f385c7d4e" style="width:30%;"/>
 </div>
