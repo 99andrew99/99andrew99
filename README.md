@@ -2,22 +2,21 @@
 ![무제 001](https://github.com/user-attachments/assets/af5f3e5e-679c-4e6d-8750-7207b6920061)
 
 
+
+
 <br>
 
 <p align="center">
-    <Strong>💻 My Portfolio Blog 💻</Strong><br><br>
+    <Strong>💻 My Portfolio Blog 💻</Strong><br>
     <a href="https://jumbled-corleggy-e88.notion.site/7e7778d41dd8476fb64819e0f4b04178">!!포트폴리오 사이트로 이동!!</a>
-    
-<br>
 </p>
+<br><br>
 
 <p align="center">
 <Strong>✉️ Email ✉️</Strong><br>
-    whalstjr199927@gmail.com<br>
+    whalstjr199927@gmail.com
 </p>
-<br>
-
-<br>
+<br><br>
 
 <p align="center">
 😊 안녕하세요! 😊<br>
@@ -58,18 +57,10 @@
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=Java&logoColor=white">
 </p>
 
-
-
-<p align="center">
-    <Strong>🏢 My Career 🏢</Strong><br><br>
-    🏢 한국조폐공사(KOMSCO)인턴 - 2024.3 ~ 2024.6
-    
+<p align="center" display="inline-block">
+    <img src="https://github-readme-stats.vercel.app/api?username=99andrew99&show_icons=true&theme=radical" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99andrew99&layout=compact&theme=radical" height="180"/>
 </p>
-<br><br>
-
-
- 
-
 
 <div align="center">
   <a href="https://solved.ac/whalstjr1999/">
@@ -77,14 +68,22 @@
   </a>
 </div>
 
-<br>
+<br><br>
+
+<p align="center">
+    <Strong>🏢 My Career 🏢</Strong><br><br>
+    🏢 한국조폐공사(KOMSCO)인턴 - 2024.3 ~ 2024.6<br>
+    💻 하나은행 디지털 하나로 - 2024.8 ~ 2025.2
+</p>
+
+
+<br><br>
 
 
 
 <p align="center">
     <Strong>💻 My Projects 💻</Strong><br>
 </p>
-
 
 
 <div align="center" style="width:100%;">
@@ -113,62 +112,6 @@
    <a href="https://github.com/99andrew99/HealthCareEachOther"> <Strong>목소리로(음성 기반 공유 알람 서비스 앱)</Strong> </a>
 </p>
 
-<hr>
-
-<div align="center" style="width:100%;">
-    <img src="https://github.com/99andrew99/community-blog/assets/66951806/bf93c840-ef4d-4baa-bea1-4d9e257b6ff2" style="width:50%;"/>
-</div>
-<p align="center">
-   <a href="https://github.com/99andrew99/community-blog"> <Strong>파이어베이스를 이용한 간단한 포스팅 사이트</Strong> </a>
-</p>
-
-<hr>
-
-<div align="center" style="width:100%;">
-    <img src="https://github.com/99andrew99/99andrew99.github.io/assets/66951806/4157714c-9548-47f9-b90f-9e8074699ffa" style="width:30%;"/>
-    <img src="https://github.com/99andrew99/99andrew99.github.io/assets/66951806/25b8d92e-5c5e-419f-af73-857f8bd70062" style="width:30%;"/>
-    <img src="https://github.com/99andrew99/99andrew99.github.io/assets/66951806/aef10697-a925-423c-a561-fb7eb3b301f2" style="width:30%;"/>
-</div>
-<p align="center">
-   <a href="https://github.com/99andrew99/99andrew99.github.io/tree/master"> <Strong>코인 정보 분석 사이트</Strong> </a>
-</p>
-
-<hr>
-
-<div align="center" style="width:100%;">
-    <img src="https://github.com/99andrew99/Mosquito-information-site/assets/66951806/85286519-a712-4e28-8e22-5602399054fa" style="width:50%;"/>
-</div>
-<p align="center">
-   <a href="https://github.com/99andrew99/Mosquito-information-site"> <Strong>모기발생 예보서비스</Strong> </a>
-</p>
-
-<hr>
-
-<div align="center" style="width:100%;">
-    <img src="https://github.com/99andrew99/TodayAstronomyPicture/assets/66951806/0c4cdc29-9bdb-48d3-95ae-0a73529b6938" style="width:50%;"/>
-</div>
-
-<p align="center">
-   <a href="https://github.com/99andrew99/TodayAstronomyPicture"> <Strong>오늘의 천문학 사이트</Strong> </a>
-</p>
-
-<hr>
-
-<div align="center" style="width:100%;">
-    <img src="https://github.com/99andrew99/naver/assets/66951806/6af96887-ac05-4232-9a94-11237a701a2c" style="width:100%;"/>
-</div>
-<p align="center">
-   <a href="https://github.com/99andrew99/naver"> <Strong>네이버 클론코딩</Strong> </a>
-</p>
-
-<hr>
-
-<div align="center" style="width:100%;">
-    <img src="https://github.com/99andrew99/netflixFinal/assets/66951806/3d8b6d22-715c-4abd-a60d-b3baa8f7fe88" style="width:100%;"/>
-</div>
-<p align="center">
-   <a href="https://github.com/99andrew99/netflixFinal"> <Strong>넷플릭스 클론코딩</Strong> </a>
-</p>
 
 <hr>
 
