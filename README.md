@@ -79,6 +79,20 @@
 
 # 🚀 Projects
 
+<a href="https://github.com/orgs/CoursePalette/repositories">
+<div align="center" style="width:100%;">
+    <img src="https://github.com/user-attachments/assets/c9c3dca8-44ca-4987-8c18-35b78b622ce5" style="width:50%;"/>
+</div>
+
+
+<p align="center">
+    <Strong>코스팔레트<br />
+</p>
+</a>
+
+        
+<hr>
+
 <a href="https://github.com/digital-hanaro-RSP/GGUMTLE_FE">
 <div align="center" style="width:100%;">
     <img src="https://github.com/user-attachments/assets/6690b511-db91-4a0e-a496-9d057cfdd24f" style="width:50%;"/>
